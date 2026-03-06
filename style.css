@@ -91,10 +91,11 @@ blockquote p:last-child {
  */
 
 /* Full size background image */
-html, #container, .inner { background-color:transparent;}
+html, #container, .inner { background-color:#B6CEE0;}
 html {
-  background:url(background.jpg) center center no-repeat fixed;
-  background-size:cover;
+  /*background:url(background.jpg) center center no-repeat fixed;
+  background-size:cover;*/
+  background-color: #B6CEE0;
 }
 body {
   max-width:800px;
